@@ -22,7 +22,7 @@ jobs:
           - platform: 'ubuntu-22.04'
             args: ''
             rust-target: ''
-          - platform: 'ubuntu-22.04' # For Raspberry Pi ARM64
+          - platform: 'ubuntu-22.04-arm' # For Raspberry Pi ARM64
             args: '--target aarch64-unknown-linux-gnu'
             rust-target: 'aarch64-unknown-linux-gnu'
           - platform: 'windows-latest'
