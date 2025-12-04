@@ -15,7 +15,7 @@
       {
         "title": "my-rpi-app",
         "width": 480,
-        "height": 640,
+        "height": 800,
         "fullscreen": false,
         "maximized": true,
         "decorations": false
